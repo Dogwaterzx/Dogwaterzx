@@ -2,9 +2,9 @@
 - 👀 I’m interested in anything related to code.
 - 🌱 I’m currently learning advanced C++ and expanding my knowledge on common coding languages such as Javascript, Java, Python, and HTML/CSS!
 - 💞️ I’m looking to collaborate on hacks for popular games and emulators
-- 📫 How to reach me: Dm me on my discord at Zpic#2054
+- 📫 How to reach me: You can't
 - MCBE Developer.
-- Working on Discord-Related Stuff right now.
+- Working on a MCBE anticheat atm.
 
 <!---
 Dogwaterzx/Dogwaterzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
